@@ -1,0 +1,17 @@
+I was able to successfully set up an environment for testing, and I stumbled through
+writing the first several tests, but I struggled with several issues.
+
+First, I am only passingly familiar with Python, which while not an insurmountable obstacle,
+did significantly slow me down. Second, I struggled to figure out how I (as a test writer)
+was supposed to interface with the system. Some of the functions that seemed to me necessary
+to test other functionality were subjects of tests, which seems problematic.
+
+Ultimately, I'm not sure what the expected complexity of the tests is, or what assumptions
+we can make, so I don't know if the tests that I have written are even close to what is
+expected. For example, in what way am I supposed to access class data? Am I to assume that
+the functions returning data are correct, or do I need to directly access the data stored
+within classes? How much knowledge of the inner workings of the system should I even have?
+Shouldn't that be a black box? I'm just not sure what I'm supposed to know / assume here.
+
+I would really appreciate the provision of additional resources explaining how to write good
+tests, preferably with some clear examples.

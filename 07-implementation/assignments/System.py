@@ -82,7 +82,7 @@ if __name__ == "__main__":
     grades = gradeSystem.usr.check_grades('software_engineering')
     print('\nGrades: ')
     print(grades)
-    # Print the assignmets for databases
+    # Print the assignments for databases
     assignments = gradeSystem.usr.view_assignments('databases')
     print('\nAssignments: ')
     print(assignments)
