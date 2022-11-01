@@ -15,3 +15,9 @@ Shouldn't that be a black box? I'm just not sure what I'm supposed to know / ass
 
 I would really appreciate the provision of additional resources explaining how to write good
 tests, preferably with some clear examples.
+
+
+After revisiting this assignment, my concerns haven't greatly changed. My tests rely on 
+extensive knowledge of the test data set, and aren't very generalizable. I feel that the
+system doesn't provide enough options for getting data. That said, perhaps this setup is
+typical. I don't really know.
